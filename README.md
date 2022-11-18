@@ -1,2 +1,2 @@
-# instagram.feign.tk
-İnstagram.feign.tk kaynak kodu.
+# instagram.feign-wiki.tk
+İnstagram.feign-wiki.tk kaynak kodu.
